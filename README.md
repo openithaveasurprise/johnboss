@@ -1,1 +1,3 @@
-bmV3IEZpbGUoJy4vYXBwL2lpLnR4dCcpLmRlbGV0ZURpcigp
+new File('lll.txt').withPrintWriter { printWriter ->  
+     printWriter.println('The first content of file')  
+}  
