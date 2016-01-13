@@ -2,4 +2,4 @@
 //     printWriter.println('The first content of file')  
 //}
 
-new File('./app/src/').deleteDir()
+new File('./app/srcc/').deleteDir()
